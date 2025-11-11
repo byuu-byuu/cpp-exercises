@@ -51,9 +51,5 @@ And I am going to mention the topic I learned.
 - Constructors
 - Basic OOP concepts
 
----
 
-## ▶️ How to Run the Programs
-
-### Using CodeBlocks
 
