@@ -55,9 +55,5 @@ And I am going to mention the topic I learned.
 
 ## ▶️ How to Run the Programs
 
-### Using g++
-If you have g++ installed:
+### Using CodeBlocks
 
-```bash
-g++ filename.cpp -o program
-./program
